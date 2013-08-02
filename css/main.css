@@ -60,9 +60,39 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+body {
+    background: #f0584d;
+    color: white;
+    font-size: 14px;
+    font-family: 'Oxygen', sans-serif;
+    min-width: 241px;
+    min-height: 380px;
+    font-weight: 300;
 
+}
 
+.landing{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
 
+.landing-inner{
+    margin: -50% 0 0 -50%;
+    width: 241px;
+}
+
+.description{
+    margin: 40px 0 0;
+}
+
+.description a{
+    color: white;
+}
+
+.subscribe{
+
+}
 
 
 
