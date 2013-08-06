@@ -92,6 +92,31 @@ body {
 
 }
 
+#mc_embed_signup{}
+#mc_embed_signup .mc-field-group{vertical-align: top}
+#mc_embed_signup input.email{
+    width: 150px;
+    padding: 3px 4px;
+}
+
+#mc_embed_signup #mc-embedded-subscribe{
+    border: 1px solid #f27b73;
+    background: white;
+    color: #f0584d;
+    height: 26px;
+    line-height: 21px;
+    padding: 2px 5px;
+}
+#mc_embed_signup #mc-embedded-subscribe:hover{
+    background: #f27b73;
+    color: white;
+    border: 1px solid white;
+}
+
+#mc_embed_signup #mce-success-response{
+    color: white;
+}
+
 
 
 
